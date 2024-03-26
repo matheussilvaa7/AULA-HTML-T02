@@ -1,0 +1,10 @@
+h1 {
+    color:aqua;
+    font-family:'Times New Roman', times, serif;
+    background-color: lawngreen;
+}
+h2{
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: coral;
+}
